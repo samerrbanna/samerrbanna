@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samerrbanna
-- 👀 I’m interested in machine learning and data analysis. 
-- 🌱 I’m currently learning excel, and git. 
-- 💞️ I’m looking to collaborate on different projects so I can improve my skills. 
+- 👀 interested in machine learning and data analysis. 
+- 🌱 currently learning R, SQL, and RapidMiner. 
+- 💞️ looking to collaborate on different projects so I can improve my skills. 
 - 📫 How to reach me samer.r.albanna@gmail.com
 
 <!---
